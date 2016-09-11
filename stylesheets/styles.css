@@ -1,0 +1,33 @@
+html { 
+  background: url("https://s18.postimg.io/5kary0q6h/space_edit_long.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+    
+}
+.header h1 {
+  display: inline;
+  font-size: 6rem;
+  font-family: "Lucida Console", Monaco, monospace;
+  color: rgb(215,235,240);
+  float: left;
+  width: 50%;
+  text-align: center;
+  margin-top:25%
+}
+
+.header .left {
+  float:left;
+}
+
+.header .right {
+  float: right;
+}
+
+.footer {
+    
+}
