@@ -253,6 +253,7 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
+    float:center;
   }
 
   header, section, footer {
@@ -321,4 +322,9 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+#name {
+  font-size:50pt;
+
 }
